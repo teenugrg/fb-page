@@ -1,0 +1,114 @@
+.header{
+    width: 100%;
+    height: 83px;
+ 
+    background-color: #29487d;
+    
+}
+body{
+    margin: 0;
+    font-family:Hlvetica, Arial, sans-serif;
+}
+.login{
+    width: 50%;
+    float: left;
+   
+}
+.logo{
+    width: 50%;
+    padding-top: 29px;
+    float: left;
+}
+#fb{
+    color: white;
+    font-size: 40px;
+    font-weight: bold;
+    font-family:Helvetica, Arial, sans-serif;
+    text-decoration: none;
+    margin-left: 181px;
+   
+}
+.logincontrols{
+    color:white;
+    margin: 15px;
+    font-size: 12px;
+}
+#forgotten{
+    color: #9cb4d8; ;
+    text-decoration: none;
+
+}
+.pass{
+    margin-left: 15px;
+}
+.left{
+    margin-left: 114px;
+}
+.button{
+    color: white;
+    background: none;
+    background-color: #4267b2; ;
+    border-color: #29487d;
+    display: inline;
+    border-radius: 3px;
+    cursor: pointer;
+    font-family: inherit;
+    line-height: 17px;
+    white-space: nowrap
+}
+.button:hover{
+    background:#29487d
+    ;
+}
+.pic{
+    
+    width: 50%;
+    color: #0e385f;
+    font-size: 20px;
+    font-weight: bold;
+    line-height: 29px;
+    word-spacing: -1px;
+    height: 345px;
+    float:left;
+    margin-top: -1px;
+    padding-left: 5px;
+    padding-top: 5px;
+    margin-left: 142px;
+}
+.signup{
+    width: 32%;
+    height: 345px;
+    float: left;
+    color: #333;
+    font-size: 38px;
+    font-weight: 600;
+    line-height: 1.34;
+    margin-top: -42px;
+    margin-left: -55px;
+   
+}
+#para{
+    padding-left: 27px;
+    padding-top: 5px;
+}
+.middle{
+    background: linear-gradient(white, #D3D8E8);
+    height: 500px;
+    width: 100%;
+}
+.p{
+    padding-left: 5px;
+    margin-top: -17px;
+}
+#w{
+
+    font-weight: normal;
+    font-size: 19px;
+}
+.c{
+    padding-bottom: 5px;
+}
+
+
+
+
